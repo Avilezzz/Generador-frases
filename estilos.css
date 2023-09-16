@@ -4,6 +4,12 @@ font-family: 'Nunito', sans-serif !important;
 
 background-color: #040027 !important;
 }
+::selection {
+    background-color: #95ffbc;
+    color: black;
+    text-decoration: none;
+    
+}
 .contenedor{
   height: 45px;
 }
