@@ -46,6 +46,11 @@ footer p{
 }
 .logo{
   max-width: 400px;}
+  
+#boton:active{
+    background-color: black;
+    
+  }
 
 @media (max-width: 768px){
   .logo{
