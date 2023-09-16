@@ -1,0 +1,55 @@
+body{
+font-family: 'Nunito', sans-serif !important;
+
+
+background-color: black !important;
+}
+.contenedor{
+  height: 45px;
+}
+h1{
+  color: White !important;
+  font-size: 40px !important;
+  font-family: sans-serif !important;
+}
+
+.contenedor-frase{
+ 
+  border: solid 2px whitesmoke;
+  border-radius: 1rem;
+  color: lightgrey;
+  width: 100%;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  box-shadow: 0 0 10px white;
+  
+  
+}
+.contenedor-frase h2{
+  padding: 13px;
+  text-align: center;
+  transition: 5s;
+}
+
+footer{
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  height: 190px;
+  
+}
+footer p{
+  color: darkgrey;
+}
+.logo{
+  max-width: 400px;}
+
+@media (max-width: 768px){
+  .logo{
+    max-width: 300px;
+    margin-right: 20px;
+  }
+}
