@@ -64,4 +64,7 @@ footer p{
     max-width: 300px;
     margin-right: 20px;
   }
+  #parraroAviso{
+    letter-spacing: 1.2px;
+  }
 }
