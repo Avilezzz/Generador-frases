@@ -55,7 +55,9 @@ footer p{
   color: darkgrey;
 }
 .logo{
-  max-width: 400px;}
+  max-width: 400px;
+  
+}
   
 #boton:active{
     background-color: black !important;
