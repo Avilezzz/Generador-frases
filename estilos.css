@@ -32,6 +32,14 @@ h1{
   padding: 13px;
   text-align: center;
 }
+#parraroAviso{
+  font-size: 12px;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  margin-top: 1rem;
+  
+}
 
 footer{
   display: flex;
