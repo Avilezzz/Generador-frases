@@ -80,6 +80,7 @@ footer p{
 .contenedorBolas .bolita1{
   margin-left: 1rem;
   background-color: #ffee52;
+  box-shadow: 0 0 12px #ffee52;
 }
 .contenedorBolas .bolita2{
   background-color: #44ff42;
