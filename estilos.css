@@ -67,6 +67,7 @@ footer p{
   background-color: red;
   position: relative;
   top: 25px;
+  display: flex;
   
 }
 .contenedorBolas span{
