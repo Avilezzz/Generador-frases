@@ -84,9 +84,11 @@ footer p{
 }
 .contenedorBolas .bolita2{
   background-color: #44ff42;
+  box-shadow: 0 0 25px #8cff71;
 }
 .contenedorBolas .bolita3{
   background-color: #c650ff;
+  box-shadow: 0 0 25px #e35fff;
 }
 
   
