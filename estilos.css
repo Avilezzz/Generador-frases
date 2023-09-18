@@ -72,9 +72,10 @@ footer p{
   
 }
 .contenedorBolas span{
-  width: 30px;
-  height: 30px;
+  width: 15px;
+  height: 15px;
   background-color: yellow;
+  border-radius: 50%;
 }
 
   
